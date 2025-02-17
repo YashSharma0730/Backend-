@@ -5,5 +5,15 @@ const PI = 3.14;
 const a = 98;
 
 
-module.exports =3007;
+//module.exports =3007;
+let obj={
+    sum:sum,
+    mul:mul,
+    g:g,
+    PI:PI,
+    a:a,
 
+};
+
+
+module.exports=obj;
