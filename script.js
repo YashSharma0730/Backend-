@@ -1,10 +1,22 @@
+import{sum,a} from "./math.js"
+import { generate } from "random-words";
+console.log(generate());
+
+
+
+
+
+
+
+
+
 //let n =5;
 //for(let i=0;i<n;i++){
 //    console.log("hello, ", i)
 //}
-const info = require("./Fruits");
+//const info = require("./Fruits");
 //console.log(math);
-console.log(info);
+//console.log(info);
 //console.log(math.sum(2,2));
 //let args = process.argv;
 //for(let i=2;i<args.length;i++){

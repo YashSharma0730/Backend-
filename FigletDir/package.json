@@ -1,12 +1,16 @@
 {
   "dependencies": {
-    "figlet": "^1.8.0"
+    "a": "^3.0.1",
+    "figlet": "^1.8.0",
+    "give": "^2.0.0",
+    "give-me-a-joke": "^0.5.1",
+    "joke": "^0.0.1-1",
+    "me": "^0.3.0"
   },
   "name": "try",
   "version": "1.0.0",
   "description": "trying the package json thing ",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

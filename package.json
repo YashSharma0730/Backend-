@@ -1,0 +1,23 @@
+{
+  "name": "pack",
+  "version": "1.0.0",
+  "description": "trying pack for import export",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashSharma0730/Backend-.git"
+  },
+  "author": "Yash Sharma",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/YashSharma0730/Backend-/issues"
+  },
+  "homepage": "https://github.com/YashSharma0730/Backend-#readme",
+  "dependencies": {
+    "random-words": "^2.0.1"
+  }
+}
